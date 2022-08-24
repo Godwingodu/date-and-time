@@ -1,0 +1,4 @@
+from calendar import monthrange
+year=2022
+month=6
+print(monthrange(year,month))
