@@ -1,0 +1,4 @@
+from datetime import date
+a=date(2000,3,4)
+b=date(2022,4,4)
+print(b-a)
